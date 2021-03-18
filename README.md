@@ -1,3 +1,5 @@
 ## Hi, I'm Brady! 👋
 
-I'm still working on this readme! ✨
+I am a full-stack developer and student from Amsterdam.
+
+[Check out my portfolio](https://bradyrenting.com/portfolio)
