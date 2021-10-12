@@ -2,4 +2,4 @@
 
 I am a full-stack developer and student from Amsterdam.
 
-[Check out my portfolio](https://bradyrenting.com/portfolio)
+You can follow me on Twitter [@bradyrenting](https://twitter.com/bradyrenting)
